@@ -73,7 +73,7 @@ This section guides you through setting up and running the project:
   cd Twitter-Sentiment-Analysis
 ```
 
-- **Launch Jupyter Notebook :** Open `notebook.ipynb` This file contains the core code for data analysis and model building. The notebook provides step-by-step guidance and explanations for each code section.
+- **Launch Google Collab :** Open `Untitled0.ipynb` This file contains the core code for data analysis and model building. The notebook provides step-by-step guidance and explanations for each code section.
 ```bash
   Jupyter Notebook
 ```
