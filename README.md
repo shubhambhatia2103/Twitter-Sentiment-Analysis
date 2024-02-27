@@ -7,6 +7,10 @@ Welcome to the Twitter Sentiment Analysis (NLP) project repository! 🌟
 
 This project delves into the realm of Natural Language Processing (NLP) to understand and interpret human sentiments expressed on social media platforms, particularly Twitter. By analyzing tweets, we aim to gauge the emotional tone behind the text, thereby exploring the power of NLP in sentiment analysis.
 
+## Dataset
+
+The project utilizes the [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download) from Kaggle, containing 1.6 million tweets labeled with sentiment.
+
 ## Key Steps
 
 **1. Data Acquisition:** Downloading the Twitter sentiment140 dataset from [Kaggle](https://www.kaggle.com/).
@@ -30,9 +34,6 @@ This project delves into the realm of Natural Language Processing (NLP) to under
 **7. Model Deployment :** Saving the model for future use and potential deployment in a web application or API.
 
 
-## Dataset
-
-The project utilizes the [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download) from Kaggle, containing 1.6 million tweets labeled with sentiment.
 ## How to Use
 
 This section guides you through setting up and running the project:
@@ -73,7 +74,7 @@ This section guides you through setting up and running the project:
   cd Twitter-Sentiment-Analysis
 ```
 
-- **Launch Google Collab :** Open `Untitled0.ipynb` This file contains the core code for data analysis and model building. The notebook provides step-by-step guidance and explanations for each code section.
+- **Launch Jupyter Notebook :** Open `notebook.ipynb` This file contains the core code for data analysis and model building. The notebook provides step-by-step guidance and explanations for each code section.
 ```bash
   Jupyter Notebook
 ```
