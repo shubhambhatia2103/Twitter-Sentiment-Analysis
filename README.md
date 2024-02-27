@@ -93,6 +93,17 @@ This section guides you through setting up and running the project:
 
 **Jupyter Notebook**
 
+## Contributions
+
+Contributions are welcome! Feel free to `fork` this repository and create a `pull request`.
+
+
+## Future Work
+
+- Explore different NLP techniques and model architectures.
+- Experiment with hyperparameter tuning for model optimization.
+- Investigate sentiment analysis for different topics or domains.
+- Build a web application or API for real-time sentiment analysis.
 ## Authors
 
 - [@shubhambhatia2103](https://www.linkedin.com/in/shubhambhatia2103/)
@@ -100,10 +111,21 @@ This section guides you through setting up and running the project:
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
+
+## Acknowledgements
+
+ - [Kaggle Dataset: Twitter Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
+ - [NLTK Book: Natural Language Processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
+ - [scikit-learn documentation](https://scikit-learn.org/stable/)
+ - [Youtube](https://youtu.be/4YGkfAd2iXM?si=gA8Ea2s1mufVRF2f)
+ - [GeeksforGeeks](https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/)
+ - [NLTK Book: Natural Language Processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
+ - [scikit-learn documentation](https://scikit-learn.org/stable/)
+ - [GeeksforGeeks](https://youtu.be/4YGkfAd2iXM?si=gA8Ea2s1mufVRF2f)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This repository is licensed under the MIT License - see the [LICENSE](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis/blob/main/LICENSE) file for details. Feel free to use, modify, and distribute the code as per the terms of the license.
 
