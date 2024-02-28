@@ -107,7 +107,7 @@ Contributions are welcome! Feel free to `fork` this repository and create a `pul
 - Build a web application or API for real-time sentiment analysis.
 ## Authors
 
-- [@shubhambhatia2103](https://www.linkedin.com/in/shubhambhatia2103/)
+- [@shubham Bhatia](https://www.linkedin.com/in/shubhambhatia2103/)
 
 
 ## Feedback
