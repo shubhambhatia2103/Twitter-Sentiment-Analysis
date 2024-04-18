@@ -126,6 +126,9 @@ If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
  - [scikit-learn documentation](https://scikit-learn.org/stable/)
  - [GeeksforGeeks](https://youtu.be/4YGkfAd2iXM?si=gA8Ea2s1mufVRF2f)
 
+## Contact
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/shubhambhatia2103/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/shubhambhatia2103) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis/blob/main/LICENSE) file for details. Feel free to use, modify, and distribute the code as per the terms of the license.
